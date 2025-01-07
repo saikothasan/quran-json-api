@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     shortcut: '/favicon-96x96.png',
     apple: '/apple-touch-icon.png'
   },
-  manifest: 'https://quran-json-docs.vercel.app/site.webmanifest'
+  manifest: '/site.webmanifest'
 }
 
 export default function RootLayout({
