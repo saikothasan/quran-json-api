@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="200" height="200"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background -->
+  <rect x="0" y="0" width="200" height="200" fill="#F4F4F4"></rect>
+  
+  <!-- Quran Book Shape -->
+  <rect x="40" y="50" width="120" height="100" rx="15" ry="15" fill="#008080" stroke="#004d33" stroke-width="4"></rect>
+  
+  <!-- Quran Pages -->
+  <line x1="40" y1="90" x2="160" y2="90" stroke="white" stroke-width="2"></line>
+  <line x1="40" y1="110" x2="160" y2="110" stroke="white" stroke-width="2"></line>
+  
+  <!-- Text on Pages (Representing Arabic Calligraphy) -->
+  <text x="80" y="95" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">القرآن</text>
+  
+  <!-- Book Spine -->
+  <rect x="70" y="50" width="10" height="100" fill="#004d33"></rect>
+  
+  <!-- Decorative Patterns (Optional) -->
+  <circle cx="50" cy="60" r="5" fill="white"></circle>
+  <circle cx="150" cy="60" r="5" fill="white"></circle>
+  
+  <!-- Outer Frame -->
+  <rect x="10" y="10" width="180" height="180" rx="20" ry="20" fill="none" stroke="#004d33" stroke-width="8"></rect>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
