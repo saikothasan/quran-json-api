@@ -14,16 +14,16 @@ export const metadata: Metadata = {
   },
   description: 'Documentation for the Quran JSON API with text, transliteration, and translations',
   keywords: ['Quran', 'JSON', 'API', 'transliteration', 'translation'],
-  authors: [{ name: 'Saikot Hasan', url: 'https://nullbite.net' }],
+  authors: [{ name: 'Saikot Hasan', url: 'https://quran-json-api.vercel.app' }],
   creator: 'Saikot Hasan',
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://quran-json-docs.vercel.app',
+    url: 'https://quran-json-api.vercel.app',
     siteName: 'Quran JSON API Documentation',
     images: [
       {
-        url: 'https://quran-json-docs.vercel.app/og-image.png',
+        url: 'https://quran-json-api.vercel.app/og-image.png',
         width: 1200,
         height: 630,
         alt: 'Quran JSON API Documentation'
@@ -34,12 +34,12 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Quran JSON API Documentation',
     description: 'Documentation for the Quran JSON API with text, transliteration, and translations',
-    images: ['https://quran-json-docs.vercel.app/og-image.png'],
+    images: ['https://quran-json-api.vercel.app/og-image.png'],
     creator: '@saikothasan'
   },
   icons: {
     icon: '/favicon.ico',
-    shortcut: '/favicon-16x16.png',
+    shortcut: '/favicon-96x96.png',
     apple: '/apple-touch-icon.png'
   },
   manifest: 'https://quran-json-docs.vercel.app/site.webmanifest'
